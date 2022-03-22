@@ -23,13 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+<i>will add soon</i>
 
 ### Links
 
@@ -47,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-In this challenge, I learned how to add mutiple background images as well as the syntax in styling each background image in different CSS properties. I learned that I could style each background image with commas as long as its key-value matches the order of background images listed.
+In this challenge, I learned how to add mutiple background images as well as the syntax in styling each background image in different CSS properties. <!-- I learned that I could style each background image with commas as long as its key-value matches the order of background images listed. -->
 
 ```html
 <div class="container">[...]</div>
