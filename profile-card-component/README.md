@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/neonita/Frontend-Mentor/tree/main/Newbie/profile-card-component-main)
-- Live Site URL: [Live](https://neonita.github.io/Frontend-Mentor/Newbie/profile-card-component-main/index.html)
+- Solution URL: [Repository](https://github.com/neonita/profile-card-component-backup/tree/master/profile-card-component)
+- Live Site URL: [Live](https://neonita.github.io/profile-card-component-backup/profile-card-component/)
 
 ## My process
 
